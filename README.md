@@ -5,4 +5,4 @@
 
 https://github.com/githubvpn007/v2rayNvpn
 
-[Clash使用教程]([https://github.com/githubvpn007/Clash-for-Android)
+[Clash使用教程](https://github.com/githubvpn007/Clash-for-Android)
